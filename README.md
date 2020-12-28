@@ -17,6 +17,6 @@ Graduated in Information Systems, frontend and backend developer with 10+ years 
 
 ## My social links:
 
-![LinkedIn URL](https://img.shields.io/twitter/url?color=%2300FFFF&label=linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fhttps://www.linkedin.com/in/patricia-coelho-93021615a/)
-![Instagram URL](https://img.shields.io/twitter/url?color=%231E90FF&label=instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/stanycruz) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-023DE3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfalavigna/)](https://www.linkedin.com/in/patricia-coelho-93021615a/) 
 
