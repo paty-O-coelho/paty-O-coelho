@@ -3,7 +3,6 @@
 
 ## 👋🏽  Hi, my name is Patricia Coelho:  
 
-Graduated in Information Systems, frontend and backend developer with 10+ years of experience, projecting and maintaining Web Applications and Mobile Apps.
 
 ## About Me
 
