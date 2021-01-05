@@ -8,9 +8,6 @@
 
 🌎 I'm from Fortaleza, CE - Brazil
 
-🎸 I like to play lead guitar
-
-🤘🏽 I love Rock n' Roll
 
 
 
