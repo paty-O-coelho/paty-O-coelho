@@ -1,12 +1,15 @@
-<img align="right" width="480" height="329" src="https://i.pinimg.com/originals/4b/ae/e9/4baee94ad8634680ebd9cbf372f9888e.gif">
+<img align="right" width="480" height="329" src="https://acegif.com/wp-content/uploads/2020/09/funny-cat-2020.gif">
 
 
-## 👋🏽  Hi, my name is Patricia Coelho:  
+##  Hi, I am Patricia Coelho 🐰:  
 
 
 ## About Me
 
 🌎 I'm from Fortaleza, CE - Brazil
+🎂 23  Years
+🐱 I love cats
+and love P.Y.T.H.O.N  🐍 💙💛  
 
 
 
