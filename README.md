@@ -7,8 +7,11 @@
 ## About Me
 
 🌎 I'm from Fortaleza, CE - Brazil
+
 🎂 23  Years
+
 🐱 I love cats
+
 and love P.Y.T.H.O.N  🐍 💙💛  
 
 
