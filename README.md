@@ -22,3 +22,7 @@ and love P.Y.T.H.O.N  🐍 💙💛
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-023DE3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfalavigna/)](https://www.linkedin.com/in/patricia-coelho-93021615a/) 
 
+
+
+  ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
+
